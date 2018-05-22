@@ -8,7 +8,7 @@ This is a Docker image for test. This image include a Node.JS application.
 * Docker
 * Curl
 * NPM
-
+--
 
 
 ### Installing
